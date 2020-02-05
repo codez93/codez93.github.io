@@ -21,8 +21,8 @@ sass:
   style: compressed
 
 # Site Data
-url: https://phamluan.cf
-baseurl: https://phamluan.cf/blog
+url: 
+baseurl: 
 title: Pham Luan's Blog
 description: "IT."
 keywords: 'code,blog'
